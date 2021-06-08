@@ -8,6 +8,10 @@ Usage:
 from fibbonacci import fibonacci
 
 print(fibonacci(10))
+
+for n in range(20):
+    print(fibonacci(n))
+
 '''
 
 Hello World.
