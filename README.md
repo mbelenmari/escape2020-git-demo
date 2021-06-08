@@ -7,7 +7,7 @@ Usage:
 
 from fibbonacci import fibonacci
 
-print(fibonacci(10))
+print(fibonacci(20))
 '''
 
 Hello World.
